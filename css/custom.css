@@ -48,12 +48,11 @@ h2.sub-text {
     position: relative;
     top: 5px;
     bottom: 37px;
-    background: rgb(39, 64, 55);
+    background: rgba(39, 64, 53, 0.71);
     color: white;
     font-size: 30px;
     font-family: "Lato";
     padding: 8px 12px 12px 12px;
-    width: 510px;
     text-align: center;
     margin: 10px auto;
     border-radius: 8px;
